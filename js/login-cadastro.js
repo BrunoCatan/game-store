@@ -1,3 +1,4 @@
+// Efeito na tela de login e cadastro
 let listElements = document.querySelectorAll('.link');
 
 listElements.forEach(listElement => {
